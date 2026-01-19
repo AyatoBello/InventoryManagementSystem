@@ -61,3 +61,7 @@ public class InventoryManagementSystem {
     }
     
 }
+/*
+ * Sample changes for CloneActivity
+ * Changes by Ayato Bello
+ */
